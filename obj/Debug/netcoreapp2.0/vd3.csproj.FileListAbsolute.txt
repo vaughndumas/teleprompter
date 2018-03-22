@@ -1,0 +1,11 @@
+C:\Users\u5347760\Training\vd3\bin\Debug\netcoreapp2.0\vd3.deps.json
+C:\Users\u5347760\Training\vd3\bin\Debug\netcoreapp2.0\vd3.runtimeconfig.json
+C:\Users\u5347760\Training\vd3\bin\Debug\netcoreapp2.0\vd3.runtimeconfig.dev.json
+C:\Users\u5347760\Training\vd3\bin\Debug\netcoreapp2.0\vd3.dll
+C:\Users\u5347760\Training\vd3\bin\Debug\netcoreapp2.0\vd3.pdb
+C:\Users\u5347760\Training\vd3\obj\Debug\netcoreapp2.0\vd3.csprojResolveAssemblyReference.cache
+C:\Users\u5347760\Training\vd3\obj\Debug\netcoreapp2.0\vd3.csproj.CoreCompileInputs.cache
+C:\Users\u5347760\Training\vd3\obj\Debug\netcoreapp2.0\vd3.AssemblyInfoInputs.cache
+C:\Users\u5347760\Training\vd3\obj\Debug\netcoreapp2.0\vd3.AssemblyInfo.cs
+C:\Users\u5347760\Training\vd3\obj\Debug\netcoreapp2.0\vd3.dll
+C:\Users\u5347760\Training\vd3\obj\Debug\netcoreapp2.0\vd3.pdb
